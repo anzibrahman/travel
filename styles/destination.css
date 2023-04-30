@@ -1,0 +1,38 @@
+.card img{
+    /* width: 13rem; */
+    height: 12rem;
+    object-fit: cover;
+
+}
+body{
+    background-color: antiquewhite;
+}
+
+.myAnimation{
+    animation: cardEntrance 500ms ease-in-out  both;
+}
+
+
+
+.card:hover{
+ 
+    transform: scale(1.1) !important;
+   
+}
+
+.bgColorBody{
+    background-color: #f6f4d2;
+}
+.bgColorAppBar{
+    background-color: #007f5f;
+}
+body a{
+    font-size:xx-large;
+    font-family:'Times New Roman', Times, serif;
+    color: blue;
+}
+.container a{
+    font-size: large;
+    color: black;
+}
+ 

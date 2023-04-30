@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+background-image:url('/images/new\ 1.jpg') ;
+background-position:center;
+background-size:100%;
+
+}
+body a{
+    font-size:large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+}
+form{
+background-position:center ; 
+float: bottom;
+padding: 20px;
+height: 30em;
+
+}
+form label{
+    color:white;
+font-size: large;
+margin-left: 40%;
+
+}
+form input {
+height: 8%;
+width: 15%;
+margin-left: 40%;
+}
+form h2{
+    color:white;
+font-size:large;
+margin-left: 45%;
+}
+
+form button{
+font-size: large;
+margin-left: 40%;
+width:15%;
+background-color: rgb(30, 162, 196);
+border: none;
+padding: 2px;
+}
+form p{
+    color: red;
+    margin-left: 35%;
+}

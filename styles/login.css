@@ -1,0 +1,58 @@
+
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    body{
+    background-image:url('/images/new\ 1.jpg') ;
+    background-position: fixed;
+    background-size:100%;
+
+}
+body a{
+    font-size:large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+}
+form{
+  background-position:center ; 
+    float: bottom;
+    padding: 20px;
+    height: 30em;
+}
+form label{
+    font-size:larger;
+margin-left: 40%;
+color: white;
+
+}
+form input {
+    height: 5%;
+    width: 25%;
+    margin-left: 40%;
+}
+form h5{
+    font-size: large;
+    margin-left: 45%;
+    color: white;
+}
+
+form h2{
+    margin-left:50%;
+    color: white;
+    
+}
+form button{
+    font-size: large;
+    margin-left: 40%;
+    width:25%;
+    background-color: rgb(39, 58, 233);
+    border: none;
+    padding: 2px;
+    color: white;
+}
+form a{
+    font-size: large;
+    margin-left: 50%;
+}

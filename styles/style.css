@@ -1,0 +1,160 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+div img{
+    height: 550px;
+    width: 1400px;
+    
+  
+}
+nav{
+    
+    margin-top:5px;
+    text-align: center;
+}
+
+
+nav li{
+    
+    color:rgb(24, 2, 2);
+    border: 2px solid black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+    margin-right:20px;
+    margin-top: 10px;
+    }
+    nav li:hover{
+        background-color:lightblue;
+        
+    }
+    .features{
+        padding: 100px 0;
+    }
+    
+    h1{
+        text-align:center;
+        padding-bottom:30px;
+    }
+    
+    .feature-img img{
+          width: 80%;
+          height: 70%;
+    
+    }
+    
+    .price{
+        width:50px;
+        height:50px;
+        background:#ff5722;
+        color:#fff;
+        font-weight:600;
+        border-radius:50%;
+        padding:10px;
+        box-shadow:0 0 10px 1px rgba(37,73,214,0.18);
+        position:absolute;
+        left:20px;
+        bottom:-25px;
+    }
+    .feature-img{
+        position:relative;
+    }
+    
+    
+    .features .fa{
+        font-size:15px;
+        color:#ff5722;
+    }
+    
+    .feature-details{
+        padding:20px;
+        text-align:justify;
+    }
+    .feature-details h4{
+        font-weight:600%;
+        margin-top:20px;
+    }
+    
+    .feature-details .fa{
+        margin-right:5px;
+    
+    }
+    .feature-box{
+        box-shadow:0 0 10px 1px rgba(37,73,214,0.18);
+        margin-bottom:30px;
+    }
+    .gallery{
+        padding:100px 0;
+        background: #efefef;
+    }
+    
+    .gallery-box img{
+        width: 250px;
+        height: 300px;
+        border-radius:16px;
+        cursor:pointer;
+        transition:1s;
+    }
+    .gallery-box img:hover{
+        transform:scale(1.1);
+    }
+    
+    .gallery-box h4{
+        display:block;
+        color:#fff;
+        text-shadow:-2px 2px 2px #000;
+        font-weight:600%;
+        position:absolute;
+        top:50%;
+        left:50%;
+        transform:translate(-50%,-50%);
+    }
+    
+    .gallery-box{
+        position:relative;
+        margin-bottom:30px;
+    }
+    .footer{
+        padding:100px 20px 15px;
+        background-image:linear-gradient(#2d557d,#643c838a);
+        color:#fff;
+    
+    }
+    .footer-logo{
+         width:100px;
+         height: 100px;
+         margin-top:15px;
+         margin-bottom:15px;
+    }
+    .footer h4{
+        text-align:left;
+        margin-top:15px;
+        margin-bottom:25px;
+    
+    }
+    .footer p{
+        font-size:12px;
+        text-align:justify;
+        padding-right:35px;
+    
+    }
+    
+    .footer .row .fa{
+        padding-right:20px;
+        font-size:15px;
+    
+    }
+    .footer hr{
+        margin-top:10px;
+        background:#efefef;
+    }
+    
+    .fa-heart{
+        margin:0 5px;
+        color:#f44336;
+    }
+    .footer .copyright{
+        text-align:center;
+    }
