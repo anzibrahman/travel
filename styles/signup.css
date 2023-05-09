@@ -2,17 +2,13 @@
     margin: 0px;
     padding: 0px;
 }
-
-body{
-background-position:center;
-background-size:100%;
-
+div img{
+    height: 550px;
+    width: 1400px;
+    
+  
 }
-body a{
-    font-size:large;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color:white;
-}
+
 nav{
     
     margin-top:5px;
@@ -31,36 +27,38 @@ nav li{
     }
     nav li:hover{
         background-color:lightblue;
+    }
         
 form{
+    margin-top: 20%;
 background-position:center ; 
 float: bottom;
-padding: 20px;
-height: 30em;
+
+
 
 }
 form label{
-    color:white;
+    color:black;
 font-size: large;
-margin-left: 40%;
+margin-left: 30%;
 
 }
 form input {
 height: 8%;
-width: 15%;
-margin-left: 40%;
+width: 20%;
+margin-left: 30%;
 }
 form h2{
     color:white;
 font-size:large;
-margin-left: 45%;
+margin-left: 35%;
 }
 
 form button{
 font-size: large;
-margin-left: 40%;
+margin-left: 30%;
 width:15%;
-background-color: rgb(30, 162, 196);
+background-color: rgb(231, 23, 169);
 border: none;
 padding: 2px;
 }
